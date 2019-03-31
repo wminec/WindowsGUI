@@ -8,4 +8,4 @@ and i also study assembler too.
 
 i will refer to this link to study assembler(https://github.com/gurugio/book_assembly_8086_ko/blob/master/README.md)
 
-final goal is make assembler!
+final goal is make assembler use c!
