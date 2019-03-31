@@ -1,7 +1,7 @@
 this is just create empty window.
 i learn data type LPSTR, LPCSTR, LPWSTR, LPCWSTR, etc...
 
-'''c
+>
 #include <windows.h>
 
 LRESULT CALLBACK WndProc(HWND, UINT, WPARAM, LPARAM);
@@ -50,4 +50,4 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT iMessage, WPARAM wParam,
 	}
 	return(DefWindowProc(hWnd, iMessage, wParam, lParam));
 }
-'''
+
